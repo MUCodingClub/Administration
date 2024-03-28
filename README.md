@@ -8,8 +8,8 @@ Instead, proposed changes have to be submitted as a pull request and reviewed by
 ## Quick Access
 <!-- (Benj) Please hyperlink documents here once they are uploaded and keep up to date. -->
 - Club Plan
-- Constitution
-- Code of Conduct
+- [Constitution](./MUCC_CONSTITUTION.md)
+- [Code of Conduct](./MUCC_COC.md)
 - Discord Rules
 - Moderation Guidelines.
 Note: If there are hyperlinks missing, then they have not been uploaded to this repository at this current time. <!-- (Benj) Remove this line after all doocuments have been uploaded -->
@@ -28,4 +28,4 @@ Sub-Committee:
 - Advisor: Benjamin Elsdon ([4Benj](https://github.com/4Benj))
 - Jason Holloway ([cloudstrewth](https://github.com/jasonholloway125))
 - Tadhg Archer ([Tadhg](https://github.com/OriginalConcept))
-- Nasrin Sadiqi <!-- See is Naz has a GitHub and add it here -->
+- Nasrin Sadiqi ([N23897](https://github.com/N23897))
